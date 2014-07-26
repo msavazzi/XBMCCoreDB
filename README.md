@@ -1,0 +1,4 @@
+XBMCCoreDB
+==========
+
+Proposal for CoreDB
